@@ -1,0 +1,18 @@
+Day 3 - Linux Fundamentals Part 1 
+
+pwd - Show current working directory
+ls - Lists files and directories 
+cd - Change directory
+mkdir - Create a new directory 
+touch - Create a new file
+cat - Display file contents
+rm - Remove files or directories 
+grep - Search for specific text in files 
+
+
+
+Completed:
+
+-TryHackMe Linux Fundamentals Part 1
+-Practiced each command multiple times in Kali Linux 
+-Configured Git and GitHub using SSH authentication
