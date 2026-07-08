@@ -1,32 +1,54 @@
-Cybersecurity Notes
+# Cybersecurity Notes
 
-Documenting my journey in cybersecurity through Linux, networking, web security, cloud security, and hands-on projects.
+Welcome to my cybersecurity learning repository.
 
-Repository Structure 
+This repository documents my hands-on learning in cybersecurity through structured notes, practical exercises, and labs. The goal is to build a strong foundation in cybersecurity while developing practical skills relevant to Security Operations Center (SOC) Analyst and Blue Team roles.
 
-Linux 
-- Linux commands, exercises, and practical labs 
+---
 
-Networking
-- Networking fundamentals, protocols, and labs 
+## Repository Structure
 
-Web-Security
-- Web application security concepts and practice 
+```
+Cybersecurity-Notes/
+│
+├── Linux/
+└── More topics will be added as I progress.
+```
 
-Projects
-- Hands-on cybersecurity projects and write-ups
+---
 
-Certifications
-- Industry certifications and learning progress
+## Current Progress
 
-Current Progress
+### Linux
+- ✅ Linux Basics
+- ✅ File Management
+- ✅ Permissions & Ownership
+- ✅ Process Management
+- ✅ Package Management
+- ✅ Service Management
+- ✅ Cron Jobs
 
-Completed
-- Linux Fundamentals Part 1
-- Git installation and configuration 
-- GitHub SSH authentication setup
+---
 
-In Progress
-- Linux Fundamentals learning path
-- Hands-on lab practice
+## Tools & Platforms
+
+- Kali Linux
+- Git
+- GitHub
+- VirtualBox
+
+---
+
+## Learning Approach
+
+- Hands-on practice in Kali Linux
+- Structured technical notes
+- Practical labs and exercises
+- Continuous documentation of progress
+
+---
+
+## Goal
+
+To continuously build practical cybersecurity skills and maintain a well-organized knowledge base while preparing for a SOC Analyst internship and a career in cybersecurity.
 
