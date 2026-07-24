@@ -1,5 +1,17 @@
 # 🛡️ Cybersecurity Learning Portfolio
+<p align="center">
 
+![Linux](https://img.shields.io/badge/Linux-Kali-blue?style=for-the-badge&logo=linux)
+
+![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
+
+![Networking](https://img.shields.io/badge/Networking-OSI_Model-green?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
+
+</p>
 Welcome to my cybersecurity learning portfolio.
 
 This repository documents my hands-on learning journey as I work toward becoming a **SOC (Security Operations Center) Analyst**. It contains structured notes, practical labs, screenshots, scripts, and projects completed throughout my cybersecurity roadmap.
