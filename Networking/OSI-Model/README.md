@@ -64,3 +64,9 @@ Understand the 7-layer OSI model, how data travels across a network, and the pur
 - Learned the difference between Segments, Packets, Frames, and Bits.
 - Practiced explaining the OSI model from memory.
 - Drew the OSI model from memory.
+
+---
+
+## Handwritten OSI Model Diagram
+
+![OSI Model](osi_model_handwritten.jpg.jpeg) 
