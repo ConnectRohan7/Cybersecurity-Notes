@@ -1,37 +1,105 @@
-# Cybersecurity-Notes
+# 🛡️ Cybersecurity Learning Portfolio
 
-This repository documents my hands-on cybersecurity learning journey. It contains practical Linux exercises, Bash scripting projects, and cybersecurity notes as I build the skills required for a SOC (Security Operations Center) Analyst role.
+Welcome to my cybersecurity learning portfolio.
 
-## Repository Structure
+This repository documents my hands-on learning journey as I work toward becoming a **SOC (Security Operations Center) Analyst**. It contains structured notes, practical labs, screenshots, scripts, and projects completed throughout my cybersecurity roadmap.
 
-### Linux
+---
 
-This folder contains my Linux practice, including:
+# 👨‍💻 About Me
 
-- Linux command-line exercises
-- Bash scripting projects
-- File and directory management
-- Variables and user input
-- Conditional statements (`if`/`else`)
-- Process monitoring
-- Linux automation
+- **Name:** Rohan Dama
+- **Career Goal:** SOC Analyst
+- **Current Focus:** Networking, Linux, Web Security, Python, SIEM, and Blue Team skills
+- **Learning Method:** Daily hands-on practice with documentation
 
-### Featured Scripts
+---
 
-- **count_lines.sh** – Counts the number of lines in a user-specified text file.
-- **process_logger.sh** – Lists all running processes and saves them to a file.
-- **backup.sh** – Creates a timestamped backup of a directory.
+# 🎯 Goals
 
-## Skills Practiced
+- Secure a Cybersecurity Internship
+- Build a strong GitHub portfolio
+- Develop practical SOC analyst skills
+- Complete hands-on labs and projects
+- Continuously improve technical documentation
 
-- Linux
+---
+
+# 📚 Learning Progress
+
+## ✅ Linux
+
+- Linux Fundamentals Part 1
+- Linux Fundamentals Part 2
+- Linux Processes
 - Bash Scripting
-- Git & GitHub
-- Command Line
-- File Management
-- Process Monitoring
-- Automation
+- Linux Practice
 
-## Goal
+---
 
-To build a strong cybersecurity portfolio through hands-on practice while preparing for SOC Analyst internships and future cloud security roles.
+## ✅ Networking
+
+- Networking Fundamentals
+- OSI Model
+
+---
+
+## 🚧 Coming Soon
+
+- TCP/IP
+- DNS
+- HTTP & HTTPS
+- Wireshark
+- Nmap
+- Python for Cybersecurity
+- Windows Fundamentals
+- Active Directory
+- Splunk
+- MITRE ATT&CK
+- Digital Forensics
+- Incident Response
+- SOC Labs
+
+---
+
+# 🛠️ Tools Used
+
+- Kali Linux
+- Git
+- GitHub
+- VirtualBox
+- Python
+- Browser Developer Tools
+
+(More tools will be added as I continue learning.)
+
+---
+
+# 📂 Repository Structure
+
+```text
+Cybersecurity-Notes
+│
+├── Linux
+├── Networking
+├── Web
+├── Python
+├── Windows
+├── SIEM
+├── Projects
+└── Screenshots
+```
+
+---
+
+# 📈 Current Progress
+
+- ✅ Linux Fundamentals
+- ✅ Networking Fundamentals
+- ✅ OSI Model
+
+More topics and hands-on projects will be added as I continue my cybersecurity journey.
+
+---
+
+⭐ This repository is continuously updated as I learn new cybersecurity concepts and complete practical labs.
