@@ -16,3 +16,9 @@ This folder contains my networking notes and concepts learned while studying cyb
 - Network Ports
 - Common Protocols
 - OSI Model
+- Firewalls
+- Routing
+- NAT (Network Address Translation)
+- Port Forwarding
+- VPN Fundamentals
+- Wireshark Packet Analysis
