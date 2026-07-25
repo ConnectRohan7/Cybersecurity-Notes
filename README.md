@@ -12,10 +12,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
 
 </p>
-Welcome to my cybersecurity learning portfolio.
-
-This repository documents my hands-on learning journey as I work toward becoming a **SOC (Security Operations Center) Analyst**. It contains structured notes, practical labs, screenshots, scripts, and projects completed throughout my cybersecurity roadmap.
-
+Welcome to my cybersecurity learning portfolio. This repository showcases my hands-on labs, notes, scripts, and projects as I develop the practical skills required for a Blue Team and SOC Analyst career.
 ---
 
 # 👨‍💻 About Me
@@ -53,16 +50,17 @@ This repository documents my hands-on learning journey as I work toward becoming
 
 - Networking Fundamentals
 - OSI Model
-
+- Firewalls
+- Routing
+- Network Address Translation (NAT)
+- Port Forwarding
+- VPN Fundamentals
+- Wireshark Packet Analysis
 ---
-
-## 🚧 Coming Soon
-
-- TCP/IP
-- DNS
-- HTTP & HTTPS
-- Wireshark
+# comming soon
 - Nmap
+- Network Scanning
+- Packet Analysis (Advanced)
 - Python for Cybersecurity
 - Windows Fundamentals
 - Active Directory
@@ -81,6 +79,7 @@ This repository documents my hands-on learning journey as I work toward becoming
 - GitHub
 - VirtualBox
 - Python
+- Wireshark
 - Browser Developer Tools
 
 (More tools will be added as I continue learning.)
@@ -89,26 +88,38 @@ This repository documents my hands-on learning journey as I work toward becoming
 
 # 📂 Repository Structure
 
+
+
 ```text
 Cybersecurity-Notes
 │
 ├── Linux
 ├── Networking
+│   ├── Networking-Fundamentals
+│   ├── OSI-Model
+│   └── Firewalls-NAT-VPN-Wireshark
 ├── Web
 ├── Python
 ├── Windows
 ├── SIEM
 ├── Projects
-└── Screenshots
+└── README.md
 ```
 
 ---
 
 # 📈 Current Progress
 
+
 - ✅ Linux Fundamentals
 - ✅ Networking Fundamentals
 - ✅ OSI Model
+- ✅ Firewalls
+- ✅ Routing
+- ✅ NAT
+- ✅ Port Forwarding
+- ✅ VPN Fundamentals
+- ✅ Wireshark Packet Analysis
 
 More topics and hands-on projects will be added as I continue my cybersecurity journey.
 
