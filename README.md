@@ -1,26 +1,36 @@
 # 🛡️ Cybersecurity Learning Portfolio
-<p align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue?style=for-the-badge&logo=linux)
-
 ![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
-
-![Networking](https://img.shields.io/badge/Networking-OSI_Model-green?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
-
+![Networking](https://img.shields.io/badge/Networking-TCP/IP-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
 
-</p>
-Welcome to my cybersecurity learning portfolio. This repository showcases my hands-on labs, notes, scripts, and projects as I develop the practical skills required for a Blue Team and SOC Analyst career.
+# Welcome
+
+Welcome to my cybersecurity learning portfolio. This repository documents my hands-on labs, notes, scripts, and projects as I build the practical skills required for a Blue Team and SOC Analyst career.
+
 ---
 
 # 👨‍💻 About Me
 
-- **Name:** Rohan Dama
-- **Career Goal:** SOC Analyst
-- **Current Focus:** Networking, Linux, Web Security, Python, SIEM, and Blue Team skills
-- **Learning Method:** Daily hands-on practice with documentation
+**Name:** Rohan Dama
+
+**Career Goal:** SOC Analyst
+
+**Current Focus:**
+- Linux
+- Networking
+- Python
+- Web Security
+- Blue Team Fundamentals
+- SIEM (Upcoming)
+
+**Learning Method:**
+- Daily hands-on practice
+- Practical labs
+- Personal documentation
+- GitHub portfolio building
 
 ---
 
@@ -28,7 +38,7 @@ Welcome to my cybersecurity learning portfolio. This repository showcases my han
 
 - Secure a Cybersecurity Internship
 - Build a strong GitHub portfolio
-- Develop practical SOC analyst skills
+- Develop practical SOC Analyst skills
 - Complete hands-on labs and projects
 - Continuously improve technical documentation
 
@@ -50,17 +60,24 @@ Welcome to my cybersecurity learning portfolio. This repository showcases my han
 
 - Networking Fundamentals
 - OSI Model
+- TCP/IP Model
+- TCP vs UDP
+- TCP Three-Way Handshake
+- Common Network Ports
 - Firewalls
 - Routing
 - Network Address Translation (NAT)
 - Port Forwarding
 - VPN Fundamentals
 - Wireshark Packet Analysis
+
 ---
-# comming soon
+
+## 🚧 Coming Soon
+
 - Nmap
 - Network Scanning
-- Packet Analysis (Advanced)
+- Advanced Packet Analysis
 - Python for Cybersecurity
 - Windows Fundamentals
 - Active Directory
@@ -82,13 +99,11 @@ Welcome to my cybersecurity learning portfolio. This repository showcases my han
 - Wireshark
 - Browser Developer Tools
 
-(More tools will be added as I continue learning.)
+*(More tools will be added as I continue learning.)*
 
 ---
 
 # 📂 Repository Structure
-
-
 
 ```text
 Cybersecurity-Notes
@@ -97,7 +112,8 @@ Cybersecurity-Notes
 ├── Networking
 │   ├── Networking-Fundamentals
 │   ├── OSI-Model
-│   └── Firewalls-NAT-VPN-Wireshark
+│   ├── Firewalls-NAT-VPN-Wireshark
+│   └── TCP-IP
 ├── Web
 ├── Python
 ├── Windows
@@ -110,19 +126,32 @@ Cybersecurity-Notes
 
 # 📈 Current Progress
 
+✅ Linux Fundamentals
 
-- ✅ Linux Fundamentals
-- ✅ Networking Fundamentals
-- ✅ OSI Model
-- ✅ Firewalls
-- ✅ Routing
-- ✅ NAT
-- ✅ Port Forwarding
-- ✅ VPN Fundamentals
-- ✅ Wireshark Packet Analysis
+✅ Networking Fundamentals
 
-More topics and hands-on projects will be added as I continue my cybersecurity journey.
+✅ OSI Model
+
+✅ TCP/IP Model
+
+✅ TCP vs UDP
+
+✅ TCP Three-Way Handshake
+
+✅ Common Network Ports
+
+✅ Firewalls
+
+✅ Routing
+
+✅ NAT
+
+✅ Port Forwarding
+
+✅ VPN Fundamentals
+
+✅ Wireshark Packet Analysis
 
 ---
 
-⭐ This repository is continuously updated as I learn new cybersecurity concepts and complete practical labs.
+⭐ **This repository is continuously updated as I learn new cybersecurity concepts, complete hands-on labs, and build practical projects.**
