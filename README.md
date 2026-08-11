@@ -1,32 +1,28 @@
 # 🛡️ Cybersecurity Learning Portfolio
 
-![Linux](https://img.shields.io/badge/Linux-Kali-blue?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
-![Networking](https://img.shields.io/badge/Networking-TCP/IP-green?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
-
-# Welcome
+## Welcome
 
 Welcome to my cybersecurity learning portfolio. This repository documents my hands-on labs, notes, scripts, and projects as I build the practical skills required for a Blue Team and SOC Analyst career.
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 **Name:** Rohan Dama
 
 **Career Goal:** SOC Analyst
 
 **Current Focus:**
+
 - Linux
 - Networking
 - Python
 - Web Security
 - Blue Team Fundamentals
-- SIEM (Upcoming)
+- SIEM
 
 **Learning Method:**
+
 - Daily hands-on practice
 - Practical labs
 - Personal documentation
@@ -34,7 +30,7 @@ Welcome to my cybersecurity learning portfolio. This repository documents my han
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
 - Secure a Cybersecurity Internship
 - Build a strong GitHub portfolio
@@ -44,9 +40,9 @@ Welcome to my cybersecurity learning portfolio. This repository documents my han
 
 ---
 
-# 📚 Learning Progress
+## 📚 Learning Progress
 
-## ✅ Linux
+### ✅ Linux
 
 - Linux Fundamentals Part 1
 - Linux Fundamentals Part 2
@@ -56,7 +52,7 @@ Welcome to my cybersecurity learning portfolio. This repository documents my han
 
 ---
 
-## ✅ Networking
+### ✅ Networking
 
 - Networking Fundamentals
 - OSI Model
@@ -64,16 +60,22 @@ Welcome to my cybersecurity learning portfolio. This repository documents my han
 - TCP vs UDP
 - TCP Three-Way Handshake
 - Common Network Ports
-- Firewalls
-- Routing
-- Network Address Translation (NAT)
-- Port Forwarding
-- VPN Fundamentals
 - Wireshark Packet Analysis
+- DNS Fundamentals
 
 ---
 
-## 🚧 Coming Soon
+### ✅ Python
+
+- Python Basics Review
+- Python `socket` Library
+- TCP Port Scanning
+- Built a Python Port Scanner
+- Tested Port Scanner on Kali Linux
+
+---
+
+### 🚧 Coming Soon
 
 - Nmap
 - Network Scanning
@@ -89,7 +91,7 @@ Welcome to my cybersecurity learning portfolio. This repository documents my han
 
 ---
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 
 - Kali Linux
 - Git
@@ -99,11 +101,11 @@ Welcome to my cybersecurity learning portfolio. This repository documents my han
 - Wireshark
 - Browser Developer Tools
 
-*(More tools will be added as I continue learning.)*
+*More tools will be added as I continue learning.*
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 Cybersecurity-Notes
@@ -113,45 +115,71 @@ Cybersecurity-Notes
 │   ├── Networking-Fundamentals
 │   ├── OSI-Model
 │   ├── Firewalls-NAT-VPN-Wireshark
-│   └── TCP-IP
+│   ├── TCP-IP
+│   └── Day-13-DNS
 ├── Web
 ├── Python
+│   └── Day-14-Port-Scanner
 ├── Windows
 ├── SIEM
 ├── Projects
 └── README.md
-```
-
----
-
-# 📈 Current Progress
+📈 Current Progress
+Linux
 
 ✅ Linux Fundamentals
+✅ Linux Processes
+✅ Bash Scripting
+
+Networking
 
 ✅ Networking Fundamentals
-
 ✅ OSI Model
-
 ✅ TCP/IP Model
-
 ✅ TCP vs UDP
-
 ✅ TCP Three-Way Handshake
-
 ✅ Common Network Ports
-
-✅ Firewalls
-
-✅ Routing
-
-✅ NAT
-
-✅ Port Forwarding
-
-✅ VPN Fundamentals
-
 ✅ Wireshark Packet Analysis
+✅ DNS Fundamentals
 
----
+Python
 
-⭐ **This repository is continuously updated as I learn new cybersecurity concepts, complete hands-on labs, and build practical projects.**
+✅ Python Basics Review
+✅ Python Socket Library
+✅ TCP Port Scanning
+✅ Python Port Scanner
+
+🔬 Hands-On Projects
+Python TCP Port Scanner
+
+Day 14 — Python Port Scanner
+
+Built a basic TCP port scanner using Python's socket library.
+
+The scanner:
+
+Accepts a target IP address
+Scans TCP ports 1–1024
+Attempts a TCP connection to each port
+Identifies open ports
+Was tested against my own Kali Linux VM
+
+A temporary Python HTTP server was created on TCP port 800 for testing, and the scanner successfully detected the open port.
+
+Technologies: Python, Socket, TCP, Kali Linux
+
+📖 Learning Approach
+
+I focus on understanding cybersecurity concepts through a combination of:
+
+Structured learning
+Hands-on labs
+Practical experimentation
+Documentation
+Small cybersecurity projects
+Continuous revision
+
+⭐ This repository is continuously updated as I learn new cybersecurity concepts, complete hands-on labs, and build practical projects.
+
+
+**This is the version I'd keep as your main README right now.** It accurately represents what you've compl
