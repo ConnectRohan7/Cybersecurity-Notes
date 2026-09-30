@@ -71,5 +71,16 @@ grep
 sed
 awk
 journalctl
+
+## Evidence / Screenshots
+
+### grep — Authentication Failures
+![grep authentication failures](grep-authentication-failures.png)
+
+### sed — Cleaned Log Output
+![sed cleaned output](sed-cleaned-output.png)
+
+### awk — User Field Extraction
+![awk user extraction](awk-user-extraction.png)
 Authentication event analysis
 Command-line text processing
