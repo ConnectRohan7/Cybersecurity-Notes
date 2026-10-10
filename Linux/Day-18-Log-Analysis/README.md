@@ -97,3 +97,19 @@ Add screenshots of:
 Completed introductory hands-on practice with Linux log inspection, text filtering, substitution, field extraction, and command pipelines using Kali Linux.
 
 This lab strengthened foundational command-line skills relevant to security monitoring and SOC analysis.
+
+
+
+## Screenshots
+
+### 1. System Journal Inspection
+![Recent system journal entries](01-journalctl-logs.png)
+
+### 2. Filtering Logs with grep
+![grep filtering results](02-grep-failed-events.png)
+
+### 3. Text Filtering and Replacement with sed
+![sed practice](03-sed-practice.png)
+
+### 4. Field Extraction and Combined Pipeline
+![awk and combined pipeline](04-awk-and-pipeline.png)
